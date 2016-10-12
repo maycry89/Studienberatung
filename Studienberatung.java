@@ -1,8 +1,12 @@
 
 import java.util.Scanner; 
-public class Sudienberatung{
+public class Studienberatung{
 	public static void main(String[] args){
 			Scanner scan = new Scanner(System.in);
 			
+			System.out.println("Hast du Abitur?");
+			String s = scan.next();
+			
+			scan.close();
 	}
 }
