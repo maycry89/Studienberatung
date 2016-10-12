@@ -6,18 +6,18 @@ public class Studienberatung{
 			
 			System.out.println("Hast du Abitur?");
 			String answer1 = scan.next();
-<<<<<<< HEAD
+
 			if(answert.equalsIgnoreCase("n") {
 				System.out.println("Hast du Fachbitur?");
 				String answer2 = scan.next();
 			}
 			
-=======
-			if (anser.equalsIgnoreCase("j"){
+
+			else if (anser.equalsIgnoreCase("j"){
 				System.out.println("Bist du wissbegierig?"
-				String answer2 = scan.next();
+				String answer3 = scan.next();
 			}
->>>>>>> 8fbf
+
 			
 			scan.close();
 	}
